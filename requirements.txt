@@ -1,0 +1,13 @@
+pyowm
+word2number
+aiml
+gmplot
+PyDictionary
+SpeechRecognition
+fuzzywuzzy
+goslate
+nltk
+playsound
+pyttsx3
+urllib3
+wikipedia

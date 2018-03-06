@@ -1,0 +1,18 @@
+To search an article on Wikipedia.org, say something like 'Wikipedia what is [query]?', or 'Wikipedia who is [query]?'
+To find a meaning, a synonym or an antonym of a word, say something like 'What's the meaning of the word [word]?'
+To translate a word or phrase in an other language, say 'Translate [word or phrase] in [target language].'
+To get a weather forecast for a city (current or for the next day), say something like 'What's the weather like in [city,country] (tomorrow)?'
+To convert an amount of one currency to another, say something like 'Convert [amount] [first currency name] to [second currency name].'
+To find the nearest restaurants, coffee shops, etc., say something like 'What are the nearest [place type] in [city,country]?'
+    We currently support:   restaurants,
+                            cafes,
+                            shopping malls,
+                            gyms,
+                            museums,
+                            bakeries,
+                            banks,
+                            bars.
+To search something online, say 'Search [query].'
+You can also have small talk with the personal assistant. For example, you can say 'How are you?', 'Tell me a joke.', among many others.
+In general, please be as specific as possible.
+To exit the program, just say 'Goodbye.'

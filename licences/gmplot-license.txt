@@ -1,0 +1,4 @@
+Author: Michael Woods
+Licence: MIT
+(This repository does not contain a licence: https://github.com/vgm64/gmplot)
+(However, https://github.com/vgm64/gmplot/issues/51)

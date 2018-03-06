@@ -1,0 +1,4 @@
+Author: ZHUO Qiang
+Licence: MIT
+(https://pypi.python.org/pypi/goslate)
+(The author hasn't included a licence file in the repository: https://bitbucket.org/zhuoqiang/goslate/)

@@ -1,0 +1,3 @@
+Author: Pradipta Bora
+Licence: MIT
+(source: https://pypi.python.org/pypi/PyDictionary/1.3.4)
