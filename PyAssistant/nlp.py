@@ -93,7 +93,7 @@ def py_dictionary_utils(message: str, flask=False):
                 result = " ".join(value)
 
     if result is None:
-        result = "I don't have that word on my dictionary."
+        result = "I don't have that word in my dictionary."
 
     return result
 
